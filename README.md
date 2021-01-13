@@ -1,21 +1,14 @@
 # Overview
 
-{This is just a simple program to test the tools I am using (i.e. git, intelliJ, etc.)}
+This is just a simple program to test the tools I am using (i.e. git, intelliJ, etc.)
 
-{This smply    prints "Hello World"}
+This simply prints "Hello World"
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/sYq9LchIWuo)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I started out with IntelliJ, but switched to Vim
 
-{Describe the programming language that you used}
+I wrote this program to run in python3
 
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
